@@ -131,4 +131,4 @@ Customer-Churn-Prediction/
 
 ## Author
 
-[Your Name] | [LinkedIn] | [GitHub]
+[Name] (Aafiya Mariam M) | [GitHub] (https://github.com/aafiyamariam)
